@@ -9,6 +9,8 @@ Bundle 'gmarik/vundle'
 
 "Vundle Bundles
 Bundle 'tpope/vim-fugitive'
+Bundle 'vim-scripts/Better-Javascript-Indentation'
+Bundle 'jelera/vim-javascript-syntax'
 
 
 set nocompatible	"vim not compatible with vi
